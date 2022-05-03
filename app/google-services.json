@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007916574916",
+    "firebase_url": "https://carforyou-74363.firebaseio.com",
+    "project_id": "carforyou-74363",
+    "storage_bucket": "carforyou-74363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007916574916:android:4a4d29099b931569",
+        "android_client_info": {
+          "package_name": "com.carformy.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007916574916-nv629r7rp1s5k848b6ha5aes78qcscjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carformy.user",
+            "certificate_hash": "20fe1167f3168c8b7d843c48272e36c8e28ea7e7"
+          }
+        },
+        {
+          "client_id": "1007916574916-4m18pvdjnsm0p4h0jf719ssr34kbl6q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz33slMmJKt_zTPTsPRVIvyS8vbo7nuak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007916574916-4m18pvdjnsm0p4h0jf719ssr34kbl6q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
